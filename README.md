@@ -1,5 +1,6 @@
 ﻿# zippyshare-get
  Only work with zippyshare link
+
 0. `pip install -i requirement.txt`
 1. `python ./main.py`
 2. paste all zippyshare URLs want to extract downable
